@@ -12,5 +12,7 @@ A simple python script for downloading Youtube videos.
 3. After pytube is done installing type pip install requests
 
 # CREDITS
-[Pytube](https://pytube.io/en/latest/)
+[Pytube](https://pytube.io/en/latest/) / 
+
+
 [requests](https://requests.readthedocs.io/en/latest/)
