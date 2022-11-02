@@ -17,7 +17,6 @@ def GetVid(URL):
         print("attempting to bypass age restriction")
         sleep(2)
         try:
-            print("if bypass fails we will create a HTML file that can be opened within a browser")
             ObjectData.age_restricted = False
             ObjectData.bypass_age_gate()
 
